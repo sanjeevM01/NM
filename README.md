@@ -1,2 +1,2 @@
 # NM
-demo video link 👇(https://drive.google.com/file/d/15MQ47oeX6xhPJyR5jDnWzaK89Sh8nHgQ/view?usp=drivesdk)
+demo video 👇(https://drive.google.com/file/d/15MQ47oeX6xhPJyR5jDnWzaK89Sh8nHgQ/view?usp=drivesdk)
